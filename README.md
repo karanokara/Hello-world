@@ -22,7 +22,8 @@ To complete this tutorial, you need a GitHub.com account and Internet access. Yo
 Tip: Open this guide in a separate browser window (or tab) so you can see it while you complete the steps in the tutorial.
 
 
-Step 1. Create a Repository
+<h2>Step 1. Create a Repository</h2>
+
 A repository is usually used to organize a single project. Repositories can contain folders and files, images, videos, spreadsheets, and data sets – anything your project needs. We recommend including a README, or a file with information about your project. GitHub makes it easy to add one at the same time you create your new repository. It also offers other common options such as a license file.
 
 Your hello-world repository can be a place where you store ideas, resources, or even share and discuss things with others.
@@ -37,7 +38,7 @@ new-repo-form
 Click Create repository. :tada:
 
 
-Step 2. Create a Branch
+<h2>Step 2. Create a Branch</h2>
 Branching is the way to work on different versions of a repository at one time.
 
 By default your repository has one branch named master which is considered to be the definitive branch. We use branches to experiment and make edits before committing them to master.
