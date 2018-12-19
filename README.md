@@ -71,7 +71,7 @@ branch gif
 Now you have two branches, master and readme-edits. They look exactly the same, but not for long! Next we’ll add our changes to the new branch.
 
 
-Step 3. Make and commit changes
+<h2>Step 3. Make and commit changes</h2>
 Bravo! Now, you’re on the code view for your readme-edits branch, which is a copy of master. Let’s make some edits.
 
 On GitHub, saved changes are called commits. Each commit has an associated commit message, which is a description explaining why a particular change was made. Commit messages capture the history of your changes, so other contributors can understand what you’ve done and why.
@@ -87,7 +87,7 @@ commit
 These changes will be made to just the README file on your readme-edits branch, so now this branch contains content that’s different from master.
 
 
-Step 4. Open a Pull Request
+<h2>Step 4. Open a Pull Request</h2>
 Nice edits! Now that you have changes in a branch off of master, you can open a pull request.
 
 Pull Requests are the heart of collaboration on GitHub. When you open a pull request, you’re proposing your changes and requesting that someone review and pull in your contribution and merge them into their branch. Pull requests show diffs, or differences, of the content from both branches. The changes, additions, and subtractions are shown in green and red.
@@ -112,7 +112,7 @@ When you’re done with your message, click Create pull request!
 Tip: You can use emoji and drag and drop images and gifs onto comments and Pull Requests.
 
 
-Step 5. Merge your Pull Request
+<h2>Step 5. Merge your Pull Request</h2>
 In this final step, it’s time to bring your changes together – merging your readme-edits branch into the master branch.
 
 Click the green Merge pull request button to merge the changes into master.
